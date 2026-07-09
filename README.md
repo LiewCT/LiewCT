@@ -1,12 +1,12 @@
-<!-- Header Animation -->
+<!-- Profile Header -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Your+Name+👋;Full+Stack+Developer+💻;Open+Source+Enthusiast+🚀;Building+the+Future+with+Code+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Liew+Chin+Teck+👋;Data+Science+Student+Intern+📊;AI+%7C+Automation+%7C+Software+Development+🚀;Building+Solutions+with+Code+%26+Data+✨" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=LiewCT&label=Profile%20Views&color=00ffff&style=flat" />
 
 </div>
 
@@ -17,26 +17,32 @@
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```yaml
-name: Your Name
-role: Software Developer
-location: Your City, Country
+name: Liew Chin Teck
+username: LiewCT
+role: Data Science Student Intern
+location: Seri Kembangan
+
+focus:
+  - Data Science
+  - Artificial Intelligence
+  - Web Development
+  - Automation
+  - Mobile Application Development
 
 currently:
-  - Building awesome projects
-  - Learning new technologies
-  - Improving developer skills
-
-interests:
-  - Web Development
-  - Artificial Intelligence
-  - Open Source
-  - Cloud Computing
+  - Exploring AI-driven solutions
+  - Building software projects
+  - Improving data and engineering skills
 ```
 
-* 🔭 Currently working on **amazing projects**
-* 🌱 Learning **new technologies every day**
-* 💬 Ask me about **software development**
-* ⚡ Fun fact: **I turn coffee into code ☕**
+I am a **Data Science Student Intern** passionate about combining **data, artificial intelligence, and software engineering** to create practical solutions.
+
+I enjoy exploring how technology can automate processes, improve decision-making, and build smarter applications.
+
+* 🔭 Currently exploring **AI, automation, and data-driven applications**
+* 🌱 Continuously learning new technologies and engineering practices
+* 💡 Interested in transforming ideas into useful products
+* ⚡ Passionate about building scalable and intelligent solutions
 
 ---
 
@@ -44,7 +50,33 @@ interests:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,mongodb,postgres,docker,git,github,linux,vscode,python,java&perline=9" />
+## Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin" />
+
+<br/>
+
+## Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" />
+
+<br/>
+
+## Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,spring" />
+
+<br/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+
+<br/>
+
+## Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 
 </div>
 
@@ -52,45 +84,65 @@ interests:
 
 # 🚀 Featured Projects
 
+> 🚧 Projects section will be updated with my latest work.
+
 <table>
 <tr>
 <td width="50%">
 
-### 🌟 Project One
+## 🌟 Project One
 
-A powerful application built with modern technologies.
+**Project description**
 
-**Tech:**
+* Problem solved:
+* Technologies:
+* Key features:
 
-* React
-* Node.js
-* MongoDB
-
-⭐ Features:
-
-* Clean UI
-* Responsive design
-* Scalable architecture
+🔗 Repository:
 
 </td>
 
 <td width="50%">
 
-### 🔥 Project Two
+## 🔥 Project Two
 
-An innovative solution focused on performance and usability.
+**Project description**
 
-**Tech:**
+* Problem solved:
+* Technologies:
+* Key features:
 
-* Python
-* AI
-* APIs
+🔗 Repository:
 
-⭐ Features:
+</td>
+</tr>
 
-* Automation
-* Data processing
-* Smart workflows
+<tr>
+<td width="50%">
+
+## 💡 Project Three
+
+**Project description**
+
+* Problem solved:
+* Technologies:
+* Key features:
+
+🔗 Repository:
+
+</td>
+
+<td width="50%">
+
+## ⚡ Project Four
+
+**Project description**
+
+* Problem solved:
+* Technologies:
+* Key features:
+
+🔗 Repository:
 
 </td>
 </tr>
@@ -98,13 +150,48 @@ An innovative solution focused on performance and usability.
 
 ---
 
-# 📈 GitHub Analytics
+# 💼 Experience & Achievements
+
+> 🚧 Experience and achievements section will be updated.
+
+### 🏢 Professional Experience
+
+**Role:**
+
+**Organization:**
+
+**Duration:**
+
+**Responsibilities & Achievements:**
+
+*
+*
+*
+
+---
+
+### 🏆 Certifications & Achievements
+
+*
+*
+*
+
+---
+
+### 🌱 Open Source Contributions
+
+*
+*
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LiewCT&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiewCT&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -114,7 +201,7 @@ An innovative solution focused on performance and usability.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=LiewCT&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -124,43 +211,45 @@ An innovative solution focused on performance and usability.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/LiewCT/LiewCT/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=LiewCT&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
+> 🚧 Social links will be added.
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 </div>
 
 ---
 
-# 💡 Developer Quote
+# 💭 Developer Quote
 
 <div align="center">
 
@@ -172,8 +261,10 @@ An innovative solution focused on performance and usability.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### "Turning data into insights, and ideas into solutions." 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
