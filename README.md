@@ -22,27 +22,21 @@ username: LiewCT
 role: Data Science Student Intern
 location: Seri Kembangan
 
-focus:
-  - Data Science
-  - Artificial Intelligence
+interests:
   - Web Development
+  - Artificial Intelligence
   - Automation
   - Mobile Application Development
 
-currently:
-  - Exploring AI-driven solutions
-  - Building software projects
-  - Improving data and engineering skills
+focus:
+  - Building intelligent applications
+  - Exploring data-driven solutions
+  - Developing practical software systems
 ```
 
-I am a **Data Science Student Intern** passionate about combining **data, artificial intelligence, and software engineering** to create practical solutions.
+I am a **Data Science Student Intern** passionate about combining **data science, artificial intelligence, and software engineering** to create meaningful solutions.
 
-I enjoy exploring how technology can automate processes, improve decision-making, and build smarter applications.
-
-* 🔭 Currently exploring **AI, automation, and data-driven applications**
-* 🌱 Continuously learning new technologies and engineering practices
-* 💡 Interested in transforming ideas into useful products
-* ⚡ Passionate about building scalable and intelligent solutions
+I enjoy exploring technologies that improve efficiency, automate workflows, and transform ideas into practical applications.
 
 ---
 
@@ -50,138 +44,35 @@ I enjoy exploring how technology can automate processes, improve decision-making
 
 <div align="center">
 
-## Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin" />
 
-<br/>
+<br/><br/>
 
-## Frontend Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular" />
 
-<br/>
+<br/><br/>
 
-## Backend Development
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,spring" />
 
-<br/>
+<br/><br/>
 
-## Database
+### Database
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
-<br/>
+<br/><br/>
 
-## Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker" />
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-> 🚧 Projects section will be updated with my latest work.
-
-<table>
-<tr>
-<td width="50%">
-
-## 🌟 Project One
-
-**Project description**
-
-* Problem solved:
-* Technologies:
-* Key features:
-
-🔗 Repository:
-
-</td>
-
-<td width="50%">
-
-## 🔥 Project Two
-
-**Project description**
-
-* Problem solved:
-* Technologies:
-* Key features:
-
-🔗 Repository:
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-## 💡 Project Three
-
-**Project description**
-
-* Problem solved:
-* Technologies:
-* Key features:
-
-🔗 Repository:
-
-</td>
-
-<td width="50%">
-
-## ⚡ Project Four
-
-**Project description**
-
-* Problem solved:
-* Technologies:
-* Key features:
-
-🔗 Repository:
-
-</td>
-</tr>
-</table>
-
----
-
-# 💼 Experience & Achievements
-
-> 🚧 Experience and achievements section will be updated.
-
-### 🏢 Professional Experience
-
-**Role:**
-
-**Organization:**
-
-**Duration:**
-
-**Responsibilities & Achievements:**
-
-*
-*
-*
-
----
-
-### 🏆 Certifications & Achievements
-
-*
-*
-*
-
----
-
-### 🌱 Open Source Contributions
-
-*
-*
 
 ---
 
@@ -231,39 +122,15 @@ I enjoy exploring how technology can automate processes, improve decision-making
 
 <div align="center">
 
-> 🚧 Social links will be added.
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="#">
+<a href="https://github.com/LiewCT">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</div>
-
----
-
-# 💭 Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
 </div>
 
 ---
 
 <div align="center">
-
-### "Turning data into insights, and ideas into solutions." 🚀
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
